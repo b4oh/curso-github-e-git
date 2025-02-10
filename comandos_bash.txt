@@ -6,4 +6,11 @@ cd -> mudar o diretorio
 ls -> listar os aqurivos
 pwd -> caminho da pasta
 ls -a -> arquivos ocultos]
-mkdir [nome] -> criar pasta 
+mkdir [nome] -> criar pasta
+cat [nome] -> ver o que tem dentro
+rm -rf [nome] -> remover pasta com brute force
+ COMANDOS GIT
+ git init . -> criar pasta git
+ git status -> como está o diretorio
+ git add -> adicionar o que vai para o commit 
+ git commit -m "mensagem" -> adicionar um commit 
