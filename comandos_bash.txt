@@ -15,3 +15,5 @@ rm -rf [nome] -> remover pasta com brute force
  git add -> adicionar o que vai para o commit 
  git commit -m "mensagem" -> adicionar um commit 
 rm -rf
+
+ fodasse 
