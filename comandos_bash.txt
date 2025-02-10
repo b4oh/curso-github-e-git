@@ -1,0 +1,9 @@
+commit é tipo um checkpoint
+
+principal -> secundaria
+
+cd -> mudar o diretorio
+ls -> listar os aqurivos
+pwd -> caminho da pasta
+ls -a -> arquivos ocultos]
+mkdir [nome] -> criar pasta 
