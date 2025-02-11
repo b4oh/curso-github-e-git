@@ -1,5 +1,5 @@
-git init . -> criar um repo git na pasta atual 
-git status -> mostra o status do trabalho 
+git init .              -> criar um repo git na pasta atual 
+git status              -> mostra o status do trabalho 
 git add nome_arquivo -> adicionar arquivo para ser comitado
 git commit -m "msg" -> faz commit do que estava para ser commitado 
 git log -> mostra todo o hostorico de commit
@@ -20,7 +20,7 @@ git config - -global user.email “seu@email”
 4. git status
 5. git add nome_arquivo
 6. git status
-7. git commit -m "mensagem"
+7. git commit -m "mensagem estranha"
 8. git status
 9. volta para o passo 3.
 
