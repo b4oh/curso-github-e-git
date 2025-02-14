@@ -14,6 +14,8 @@ Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
 Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
+Github do estudante [baoh](https://github.com/b4oh)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
