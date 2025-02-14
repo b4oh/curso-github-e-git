@@ -16,7 +16,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Github do estudante [baoh](https://github.com/b4oh)
 
-Acesso canal youtube[youtube](https://www.youtube.com/@vinicius1h)
+Acesso canal do [youtube](https://www.youtube.com/@vinicius1h)
 
 ## Fluxo de trabalho Git local
 
